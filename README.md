@@ -33,12 +33,10 @@ I’m currently pursuing a B.Tech in Computer Science and Engineering, with a fo
 ---
 
 ## 📈 What I'm Working On
-
--  Learning and building projects in **AI & Machine Learning**  
--  Exploring **Data Engineering** tools
--  Enhancing problem-solving through **DSA practice**  
--  Designing user-friendly **web projects**
-
+- Diving deeper into **Data Visualization & Analytics**   
+- Exploring **Data Engineering** workflows and tools  
+- Strengthening **Problem-Solving & DSA** through regular practice  
+- Creating **interactive and user-friendly web applications**  
 ---
 
 ## 🚀 Connect with Me!
